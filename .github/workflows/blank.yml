@@ -1,0 +1,16 @@
+choose ngrok region
+=======================
+====================================
+Start RDP
+====================================
+====================================
+Username : ubuntu
+Password : ubuntu
+RDP Address:
+curl: (7) Failed to connect to 127.0.0.1 port 4040: Connection refused
+====================================
+====================================
+Don't close this tab to keep RDP running
+Wait to finish bot and next open RDC to connect
+====================================
+====================================
